@@ -1,0 +1,17 @@
+[
+    {
+        "name": "\u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432",
+        "cargo_weight": 10.5,
+        "is_vip": true
+    },
+    {
+        "name": "\u041c\u0430\u0440\u0438\u044f \u041f\u0435\u0442\u0440\u043e\u0432\u0430",
+        "cargo_weight": 5.2,
+        "is_vip": false
+    },
+    {
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u043c\u0438\u0440\u043d\u043e\u0432",
+        "cargo_weight": 8.0,
+        "is_vip": true
+    }
+]

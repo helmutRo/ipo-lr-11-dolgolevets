@@ -1,0 +1,26 @@
+[
+    {
+        "id": "10fb1a19-23ff-40ab-b9ee-e3abca803e60",
+        "capacity": 32432.0,
+        "current_load": 0,
+        "client_list": []
+    },
+    {
+        "id": "4dd4b749-8390-409d-bec9-2630a4c587ea",
+        "capacity": 54.0,
+        "current_load": 0,
+        "client_list": []
+    },
+    {
+        "id": "c8e3bc5b-589e-445e-93b4-72ec462795d2",
+        "capacity": 43.0,
+        "current_load": 0,
+        "client_list": []
+    },
+    {
+        "id": "b5e2b042-d36d-4c22-a6d4-5caaa790aba8",
+        "capacity": 12.0,
+        "current_load": 0,
+        "client_list": []
+    }
+]
